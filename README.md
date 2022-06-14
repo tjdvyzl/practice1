@@ -14,3 +14,6 @@ nomadcoders-practice01
 <p>
 <a href="https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-bkws-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_602771418616-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP+~+General_+Core+Brand-KWID_43700071610114344-aud-1644542956028:kwd-87853815-userloc_1009844&utm_term=KW_gcp-ST_gcp&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9BjiDy0IbPMPgGUhWgZEBJGDaj5Upc2tnXDlh6zTZ4Qmfkd8-llLvhoCNv4QAvD_BwE&gclsrc=aw.ds">login</a> -> menu bar -> compute engine -> vm instance -> execute ssh -> input "sudo docker start /code-server" -> access site(http://외부IP/login) -> enter pw </p>
 <p> excute html(http://외부IP/proxy/5500/coder/index.html)</p>
+
+<h2>Linux command</h2>
+<p>https://itholic.github.io/linux-basic-command/</p>
