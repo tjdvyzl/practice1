@@ -17,3 +17,4 @@ nomadcoders-practice01
 
 <h2>Linux command</h2>
 <p>https://itholic.github.io/linux-basic-command/</p>
+<p>https://seonghyuk.tistory.com/207</p>
