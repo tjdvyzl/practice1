@@ -20,3 +20,6 @@ nomadcoders-practice01
 <h2>Linux command</h2>
 <p>https://itholic.github.io/linux-basic-command/</p>
 <p>https://seonghyuk.tistory.com/207</p>
+
+<h2>node.js</h2>
+<p>https://curryyou.tistory.com/304</p>
