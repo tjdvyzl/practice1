@@ -29,3 +29,6 @@ when starting, use "docker start code-server" after access root
 
 <h2>goorm IDE</h2>
 <p>https://ide.goorm.io/</p>
+
+<h2>nomadcoders</h2>
+<p>https://nomadcoders.co/</p>
