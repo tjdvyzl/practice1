@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 function Movie({ coverImage, title, summary, genres }) {
     return (
         <div>
-            <img src={coverImage} />
+            <img src={coverImage}/>
             <h2>{title}</h2>
             <p>{summary}</p>
             <ul>

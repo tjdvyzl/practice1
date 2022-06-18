@@ -19,7 +19,6 @@ function App() {
 
 		setMovies(json.data.movies);
 		setLoading(false);
-		
 	}
 	useEffect(() => {
 		getMovies();
@@ -40,4 +39,3 @@ function App() {
 }
 
 export default App;
-
