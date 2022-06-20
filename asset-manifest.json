@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/practice1/static/js/main.b4052a28.js",
-    "index.html": "/practice1/index.html",
-    "main.b4052a28.js.map": "/practice1/static/js/main.b4052a28.js.map"
+    "main.js": "https://tjdvyzl.github.io/practice1/static/js/main.a4857e07.js",
+    "index.html": "https://tjdvyzl.github.io/practice1/index.html",
+    "main.a4857e07.js.map": "https://tjdvyzl.github.io/practice1/static/js/main.a4857e07.js.map"
   },
   "entrypoints": [
-    "static/js/main.b4052a28.js"
+    "static/js/main.a4857e07.js"
   ]
 }
