@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tjdvyzl/practice1/static/js/main.bd9b51ff.js",
-    "index.html": "/tjdvyzl/practice1/index.html",
-    "main.bd9b51ff.js.map": "/tjdvyzl/practice1/static/js/main.bd9b51ff.js.map"
+    "main.js": "/react-for-beginners/static/js/main.aeeb0915.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.aeeb0915.js.map": "/react-for-beginners/static/js/main.aeeb0915.js.map"
   },
   "entrypoints": [
-    "static/js/main.bd9b51ff.js"
+    "static/js/main.aeeb0915.js"
   ]
 }
