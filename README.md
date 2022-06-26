@@ -33,8 +33,6 @@ when starting, use "docker start code-server" after access root
 <h2>nomadcoders</h2>
 <p>https://nomadcoders.co/</p>
 
-<h2>access token</h2>
-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
 
 <h2>a good site for reference</h2>
 https://inpa.tistory.com/
